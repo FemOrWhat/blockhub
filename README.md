@@ -8,10 +8,9 @@ Disclaimer: I am not responsible for any damage done to your Chromebook, nor wil
 Discovered by ?
 Works on any extension
 ## Works on 119. (not tested on 120+)
-### Requirements {
+### Requirements
 ###   Bookmarklets unblocked
 ###   Bookmarks shown
-### }
 1. Find your extension ID. This can be done by going to `chrome://extensions/`, clicking on "Details" on the extension you want to block, and copying what comes after `id` in the search bar (e.g. haldlgldplgnggkjaafhelgiaglafanh for GoGuardian)
 2. Go to ```chrome-extention://`YOUR-ID-HERE`/manifest.json```, making sure to replace `YOUR-ID-HERE` with the actual ID of your extension.
 3. Drag [this](chrome://hang/) and [this other thing](chrome://kill) into your bookmarks bar.
@@ -24,9 +23,9 @@ This absolutely disables any extension. Works until sign out.
 Discovered by ?
 GoGuardian
 ## Works on 120
-### Requirements { 
+### Requirements 
 ###   GoGuardian
-### }
+
 1. Turn off internet
 2. Sign out
 3. sign back in with any account
