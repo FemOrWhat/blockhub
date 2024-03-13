@@ -13,7 +13,7 @@ Works on any extension
 ###   Bookmarks shown
 1. Find your extension ID. This can be done by going to `chrome://extensions/`, clicking on "Details" on the extension you want to block, and copying what comes after `id` in the search bar (e.g. haldlgldplgnggkjaafhelgiaglafanh for GoGuardian)
 2. Go to ```chrome-extention://`YOUR-ID-HERE`/manifest.json```, making sure to replace `YOUR-ID-HERE` with the actual ID of your extension.
-3. Drag [this](chrome://hang/) and [this other thing](chrome://kill) into your bookmarks bar.
+3. Put chrome://hang/ and chrome://kill into your bookmarks bar.
 4. On manifest.json, click on the first bookmark (hang)
 5. Quickly reload
 6. Click the other bookmark rapidly
