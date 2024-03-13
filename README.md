@@ -5,7 +5,7 @@ Disclaimer: I am not responsible for any damage done to your Chromebook, nor wil
 ## I need more please fork this
 
 # extension corrupter/abc hack
-Discovered by ?
+Discovered by ? <br />
 Works on any extension
 ## Works on 119. (not tested on 120+)
 ### Requirements
@@ -20,7 +20,7 @@ Works on any extension
 This absolutely disables any extension. Works until sign out.
 
 # GetGone for GoGuardian
-Discovered by ?
+Discovered by ? <br />
 GoGuardian
 ## Works on 120
 ### Requirements 
