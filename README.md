@@ -22,7 +22,7 @@ This absolutely disables any extension. Works until sign out.
 # GetGone for GoGuardian
 Discovered by ? <br />
 GoGuardian
-## Works on 120
+## Works on 121 (not tested on 122+)
 ### Requirements 
 ###   GoGuardian
 
