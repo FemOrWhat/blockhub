@@ -23,7 +23,7 @@
 ### **Steps:**  
 1. Connect to the Wi-Fi network (often named something like "**____ External Guests**" or "**____ Staff Personal Technology**").  
 2. When the sign-in window appears, press **Ctrl + T**.  
-3. If an **Incognito window** opens, you're good to go! If not, check your ChromeOS version.  
+3. If an **Incognito window** opens, you're good to go! If not, check your ChromeOS version.
 
 ---
 
